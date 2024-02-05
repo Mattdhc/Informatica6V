@@ -35,10 +35,12 @@
   },
   "resources": [
     {"id":{"name":"Obj_gme","path":"objects/Obj_gme/Obj_gme.yy",},},
+    {"id":{"name":"gme_ovr","path":"objects/gme_ovr/gme_ovr.yy",},},
     {"id":{"name":"Obj_blt_1","path":"objects/Obj_blt_1/Obj_blt_1.yy",},},
     {"id":{"name":"Obj_rckB_1","path":"objects/Obj_rckB_1/Obj_rckB_1.yy",},},
     {"id":{"name":"obj_plyr_1","path":"objects/obj_plyr_1/obj_plyr_1.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"spr_game_over","path":"sprites/spr_game_over/spr_game_over.yy",},},
     {"id":{"name":"spr_rock_big","path":"sprites/spr_rock_big/spr_rock_big.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_rock_small","path":"sprites/spr_rock_small/spr_rock_small.yy",},},

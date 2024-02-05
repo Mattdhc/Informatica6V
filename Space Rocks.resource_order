@@ -16,9 +16,11 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Obj_gme","order":1,"path":"objects/Obj_gme/Obj_gme.yy",},
+    {"name":"gme_ovr","order":4,"path":"objects/gme_ovr/gme_ovr.yy",},
     {"name":"Obj_rckB_1","order":3,"path":"objects/Obj_rckB_1/Obj_rckB_1.yy",},
     {"name":"obj_plyr_1","order":2,"path":"objects/obj_plyr_1/obj_plyr_1.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_game_over","order":4,"path":"sprites/spr_game_over/spr_game_over.yy",},
     {"name":"spr_rock_big","order":2,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
     {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
   ],

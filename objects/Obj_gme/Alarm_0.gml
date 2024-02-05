@@ -1,1 +1,1 @@
-room_restart()
+instance_create_layer(362, 362, "instances", gme_ovr);
